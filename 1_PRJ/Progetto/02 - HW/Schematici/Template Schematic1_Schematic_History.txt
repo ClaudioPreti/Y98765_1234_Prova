@@ -1,0 +1,10 @@
+----------------------------------------------------------------------------------------------------------------------------
+Template Schematic1_xx_xx_xx
+DATA: gg/mm/aaaa
+CLIENTE: Cliente
+PROGETTO: Descrizione Scheda
+modifica 1 rispetto versione precedente
+modifica 2 rispetto versione precedente
+...
+NOTE: rilasci al cliente, associazione a BOM, note importanti
+----------------------------------------------------------------------------------------------------------------------------

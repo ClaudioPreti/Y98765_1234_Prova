@@ -1,0 +1,7 @@
+In questo file ci sono tutte le segnalazioni NPI/NPD da sistemare in caso di rev2.
+Il file può essere di qualsiasi formato (word, excel, ...)
+Il nome file è indicativo dello stato della segnalazione.
+
+
+0_[xxx] (Default) --> Segnalazione/i gestita o assente.
+1_[xxx]           --> Segnalazione/i DA GESTIRE.

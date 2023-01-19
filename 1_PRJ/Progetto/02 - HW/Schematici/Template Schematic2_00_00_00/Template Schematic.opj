@@ -1,0 +1,43 @@
+(ExpressProject "Template Schematic"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\template schematic.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\lavori\x53313_00286-jc20-508b-omp-pompa olio 3 fasi\progetto\02 - hw\schematici\pompaolio3fasi_00_00_00\template schematic.dsn")
+      (Path "Design Resources"
+         "C:\lavori\x53313_00286-jc20-508b-omp-pompa olio 3 fasi\progetto\02 - hw\schematici\pompaolio3fasi_00_00_00\template schematic.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\lavori\x53313_00286-jc20-508b-omp-pompa olio 3 fasi\progetto\02 - hw\schematici\pompaolio3fasi_00_00_00\template schematic.dsn"
+         "Design Cache")
+      (Select "Design Resources"
+         "C:\lavori\x53313_00286-jc20-508b-omp-pompa olio 3 fasi\progetto\02 - hw\schematici\pompaolio3fasi_00_00_00\template schematic.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 460"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1843 208 707")
+        (Scroll "0 384")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\LAVORI\X53313_00286-JC20-508B-OMP-POMPA OLIO 3 FASI\PROGETTO\02 - HW\SCHEMATICI\POMPAOLIO3FASI_00_00_00\TEMPLATE SCHEMATIC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

@@ -1,0 +1,42 @@
+(ExpressProject "Template Schematic"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\template schematic.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "\\mwfssrv04\LNKLFS\2_PRJ\Zzzzzz - NomeCommessa_Template\Progetto\02 - HW\Schematici\Template Schematic1_00_00_00\template schematic.dsn")
+      (Path "Design Resources"
+         "\\mwfssrv04\LNKLFS\2_PRJ\Zzzzzz - NomeCommessa_Template\Progetto\02 - HW\Schematici\Template Schematic1_00_00_00\template schematic.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "\\mwfssrv04\LNKLFS\2_PRJ\Zzzzzz - NomeCommessa_Template\Progetto\02 - HW\Schematici\Template Schematic1_00_00_00\template schematic.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 460"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 1847 260 869")
+        (Scroll "0 601")
+        (Zoom "106")
+        (Occurrence "/"))
+      (Path
+         "\\MWFSSRV04\LNKLFS\2_PRJ\ZZZZZZ - NOMECOMMESSA_TEMPLATE\PROGETTO\02 - HW\SCHEMATICI\TEMPLATE SCHEMATIC1_00_00_00\TEMPLATE SCHEMATIC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "claudio.preti"))
