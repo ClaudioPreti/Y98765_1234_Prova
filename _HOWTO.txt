@@ -8,6 +8,6 @@ in lavorazione
 Nuova riga di github
 aaaaa
 
-
+Aggiungo note in un punto precedente
 
 Modifica in locale su branch TXT_Modifica
