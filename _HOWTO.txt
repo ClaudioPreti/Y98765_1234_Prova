@@ -9,5 +9,5 @@ Nuova riga di github
 aaaaa
 
 Aggiungo note in un punto precedente
-
+Nuova riga aggiunta su github da utente esterno
 Modifica in locale su branch TXT_Modifica
