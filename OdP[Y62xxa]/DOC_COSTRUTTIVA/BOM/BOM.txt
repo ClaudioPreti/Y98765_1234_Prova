@@ -1,3 +1,5 @@
 Prima release di bom.
 
 Componenti vari
+
+Aggiungo un componente qui.
