@@ -7,3 +7,5 @@ Questa riga adesso la usiamo
 
 
 Aggiornato howto
+
+Modifiche Howto da remoto
