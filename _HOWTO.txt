@@ -6,10 +6,4 @@ Aggiunte nuove info da roma
 Questa riga adesso la usiamo
 
 
-Aggiornato howto
-
-<<<<<<< HEAD
-Nuova riga su howto
-=======
-Modifiche Howto da remoto
->>>>>>> 99e135334573752f8d6afae9cf3ab9bb4ebce8e2
+Reset howto
